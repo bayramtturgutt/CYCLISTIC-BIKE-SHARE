@@ -79,3 +79,4 @@ This case study is part of my data analytics portfolio. You can view more projec
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ***https://github.com/bayramtturgutt***
+***bayramtturgutt@gmail.com***
