@@ -6,7 +6,7 @@ Welcome to the Cyclistic bike-share analysis case study! This project involves a
 
 ## Scenario
 
-As a junior data analyst on the Cyclistic marketing analytics team, I was tasked with understanding the usage patterns of Cyclistic bikes by different types of users. The insights gained from this analysis will help design a marketing strategy aimed at converting casual riders into annual members.
+As a  data analyst on the Cyclistic marketing analytics team, I was tasked with understanding the usage patterns of Cyclistic bikes by different types of users. The insights gained from this analysis will help design a marketing strategy aimed at converting casual riders into annual members.
 
 ## About Cyclistic
 
