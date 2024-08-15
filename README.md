@@ -69,7 +69,7 @@ The analysis provides a clear understanding of how annual members and casual rid
 ## Portfolio
 
 This case study is part of my data analytics portfolio. You can view more projects [here](https://github.com/bayramtturgutt).
-
+[Tableau](https://public.tableau.com/app/profile/bayram.turgut/viz/Case1Study/Dashboard1?publish=yes)
 ---
 
 **Note**: This project is fictional and created for educational purposes.
